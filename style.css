@@ -6,9 +6,9 @@
     box-sizing: border-box;
 }
 
-/* Set the gradient background for the entire page */
+/* Set the gradient background for the entire page (black to red) */
 body {
-    background: linear-gradient(to bottom, black, blue);
+    background: linear-gradient(to bottom, black, red);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
