@@ -7,8 +7,7 @@
 }
 
 /* Set the gradient background for the entire page (black to red) */
-body {
-    background: linear-gradient(to bottom, black, red);
+body {background-color: black and blue;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
